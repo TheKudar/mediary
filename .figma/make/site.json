@@ -1,0 +1,12 @@
+{
+  "description": "Платформа для авторов и зрителей: храните, находите, смотрите и публикуйте видео, управляйте коллекциями и используйте ИИ для расшифровки, субтитров и поиска.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  },
+  "title": "Mediary",
+  "language": "ru"
+}
